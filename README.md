@@ -61,5 +61,3 @@ web服务使用的koa2 async await写法处理异步 感觉真棒
 
 ![QQ截图20161116114301.png](http://dn-cnode.qbox.me/FuqJ9E5vYhM-nyPhwVVO9cK7YblS)
 ![QQ截图20161116114502.png](http://dn-cnode.qbox.me/FprnwRgyZjrYjKBgMp21UyuYAbm8)
-
-
